@@ -6,7 +6,7 @@ A very simple interactive single page application.
 npm run start
 ```
 You will need to connect to a firebase database. Create one and copy the config in `src/database/config.js`:
-```
+```javascript
 import firebase from 'firebase/app'
 import 'firebase/database'
 
