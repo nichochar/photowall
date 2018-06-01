@@ -1,4 +1,4 @@
-## PhotoWall
+## PizzaFest
 
 A very simple interactive single page application.
 
