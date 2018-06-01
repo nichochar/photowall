@@ -1,7 +1,7 @@
 ## PizzaFest
 
 A very simple interactive single page application.
-[!screenshot](public/screenshot.png)
+[screenshot!](public/screenshot.png)
 
 ## Running
 ```
