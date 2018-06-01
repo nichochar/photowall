@@ -1,7 +1,5 @@
-## PizzaFest
-
-A very simple interactive single page application.
 ![screenshot](public/screenshot.png)
+A very simple interactive single page application.
 
 ## Running
 ```
