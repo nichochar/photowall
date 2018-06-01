@@ -21,8 +21,7 @@ class Photo extends Component {
               this.props.history.push("/");
             }}
           >
-            {" "}
-            Remove{" "}
+            Remove
           </button>
           <Link className="button" to={`/single/${post.id}`}>
             <div className="comment-count">
